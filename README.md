@@ -1,2 +1,1 @@
-# git-together-course
-Git Together Course
+First edit by Lara
